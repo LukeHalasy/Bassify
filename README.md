@@ -1,2 +1,2 @@
-#Bassify
-Jam along to your favorite tracks on Spotify. Coming soon.
+#SpotiScribe
+More easily learn songs by ear on Spotify.
