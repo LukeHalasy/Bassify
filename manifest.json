@@ -1,0 +1,14 @@
+{
+   "name": "TubeScribe",
+   "description": "Transcribe Songs on Youtube",
+   "manifest_version": 2,
+   "content_scripts": [ {
+      "css": [ "style.css" ],
+      "js": [ "contentscript.js" ],
+      "matches": [ "*://*.youtube.com/*", "*://youtube.com/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "permissions": [ "storage" ],
+   "version": "0.1"
+}
