@@ -1,2 +1,2 @@
 #TubeScribe
-More easily learn songs by ear on Spotify.
+Learn songs by ear on Youtube.
